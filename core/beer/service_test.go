@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/eminetto/pos-web-go/core/beer"
+	"github.com/lleitep3/pos-web-go/core/beer"
 	_ "github.com/mattn/go-sqlite3"
 )
 
